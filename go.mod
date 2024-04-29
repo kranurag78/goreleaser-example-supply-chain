@@ -1,4 +1,4 @@
-module github.com/goreleaser/supply-chain-example
+module github.com/kranurag78/supply-chain-example
 
 go 1.19
 
